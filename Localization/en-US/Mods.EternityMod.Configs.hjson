@@ -1,0 +1,26 @@
+EternityClientConfig: {
+	DisplayName: Client Settings
+
+	Headers: {
+		Gameplay: Gameplay
+		Graphics: Graphics
+	}
+
+	Afterimages: {
+		Label: "[i:SteampunkGoggles] Afterimages"
+		Tooltip:
+			'''
+			Enables rendering afterimages for Eternity NPCs, projectiles, and other entities.
+			Disable to improve performance.
+			'''
+	}
+
+	BossesStopWeather: {
+		Label: "Bosses Stop Weather"
+		Tooltip:
+			'''
+			When enabled, bosses will stop all rain and related weather if active.
+			Enable if you have performance issues during boss fights.
+			'''
+	}
+}
