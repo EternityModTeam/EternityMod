@@ -24,7 +24,7 @@ This mod currently adds the following amount of content:
 
 Thanks to the following developers for helping out with this mod:
 Programmers: Vaema
-Artists and Spriters: Vaema
+Artists and Spriters: Vaema, Kerol
 Musicians: Vaema
 Sound Designers: Vaema
 Translators: Vaema

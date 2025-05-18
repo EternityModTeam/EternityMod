@@ -177,6 +177,8 @@ dotnet_diagnostic.CA1841.severity = warning
 
 # CS1998: Async method lacks 'await' operators and will run synchronously
 dotnet_diagnostic.CS1998.severity = none
+csharp_style_prefer_primary_constructors = true:suggestion
+csharp_prefer_system_threading_lock = true:suggestion
 
 [*.vb]
 # Modifier preferences
