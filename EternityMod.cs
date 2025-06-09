@@ -1,10 +1,18 @@
-﻿using Luminance.Core.ModCalls;
+﻿global using static System.MathF;
+global using static Microsoft.Xna.Framework.MathHelper;
+global using static Luminance.Common.Utilities.Utilities;
+
+using System.IO;
+using Luminance.Core.ModCalls;
 using Terraria.ModLoader;
 
 namespace EternityMod;
 
 public class EternityMod : Mod
 {
-    // Use Luminance's mod call manager for cross-compatibility.
+    // Defer packet reading to a separate class.
+    public override void HandlePacket(BinaryReader reader, int whoAmI) => PacketManager.ReceivePacket(reader);
+
+    // Use the Luminance library's mod call system for cross-compatibility.
     public override object Call(params object[] args) => ModCallManager.ProcessAllModCalls(this, args);
 }

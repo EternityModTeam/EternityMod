@@ -9,6 +9,7 @@ includeSource = true
 includePDB = true
 
 modReferences = Luminance, SubworldLibrary
+dllReferences = StructureHelper
 sortAfter = Luminance, SubworldLibrary
 
 buildIgnore = .vs\*, *.csproj, *.user, *.md, obj\*, bin\*, lib\*, Properties\*, *.config, .git\*, .github\*, .editorconfig, .gitignore, .gitattributes

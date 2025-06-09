@@ -1,9 +1,25 @@
-﻿# Town NPCs (vanilla additions).
+﻿# Vanilla town NPC dialogue additions.
 
 GuideChat: {
-    MoonLordDefeated: Ever since the Moon Lord has been slain, I have noticed that Luna shines brighter. Is it the Lunarians' doing? Maybe you should check them out.
-    Hardmode1: The ancient spirits are scattering around, could this really be...? Well then, just be careful when exploring because you may encounter beings more powerful than ever before.
+    Hardmode: The ancient spirits are scattering around, could this really be...? Well then, just be careful when exploring because you may encounter beings more powerful than ever before.
     Hardmode2: The guardian of Hell has been slain, well done! However, terrors beyond comprehension are waiting for worthy beings like you, so be cautious.
+    PostMoonLord: Ever since the Moon Lord has been slain, I have noticed that Luna shines brighter. Is it the Lunarians' doing? Maybe you should check them out.
 }
 
 NurseChat.HealNotAllowed: Now is not the time!
+
+# Defeated boss messages.
+LunaticCultistDeath: The interstellar weaver descends from the cosmos...
+MoonLordDeath: Your world has been materialized with Luminite!
+MoonLordDeath2: The demons have been rekindled...
+MoonLordDeath3: The deities gaze down upon you...
+
+# Player death screen messages.
+EvaPlayerDeath: The radiant light shines.
+AriusPlayerDeath: The eternal umbra consumes.
+RealityGodPlayerDeath: You have been erased.
+
+# Miscellaneous.
+AchievementCompleted: Achievement completed!
+QuestCompleted: Quest completed!
+InfiniteFlight: Infinite flight granted!

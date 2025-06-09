@@ -7,7 +7,7 @@ EternityClientConfig: {
 	}
 
 	Afterimages: {
-		Label: "[i:SteampunkGoggles] Afterimages"
+		Label: "Afterimages"
 		Tooltip:
 			'''
 			Enables rendering afterimages for Eternity NPCs, projectiles, and other entities.
