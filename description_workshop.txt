@@ -33,5 +33,5 @@ Testers and Quality Maintainers: Vaema
 Thanks to the other amazing people for the following reasons:
 - Re-Logic for creating Terraria
 - The tModLoader Team for creating tModLoader
-- Lunaitok for a major ton of the sprites that have been merged
+- The Calamity Team for some code
 - InsouciantGote for the mod's icon sprite

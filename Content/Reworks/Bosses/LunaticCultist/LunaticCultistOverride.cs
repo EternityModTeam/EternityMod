@@ -4,6 +4,8 @@ namespace EternityMod.Content.Reworks.Bosses.LunaticCultist;
 
 public class LunaticCultistOverride : GlobalNPC
 {
+    public override bool InstancePerEntity => true;
+
     #region Enumerations
 
     public enum CultistState
@@ -16,7 +18,7 @@ public class LunaticCultistOverride : GlobalNPC
         LightningOrbAndVortexPortals,
         IceBallAndFrostWaves,
         Ritual,
-        
+
         // Phase two attacks.
         NebulaOrbsAndPrismBeam,
         HomingStardustAndAlienBolts,
@@ -31,4 +33,6 @@ public class LunaticCultistOverride : GlobalNPC
     }
 
     #endregion Enumerations
+
+
 }

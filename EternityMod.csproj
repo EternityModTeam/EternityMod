@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<!-- Import tModLoader mod properties -->
 	<Import Project="..\tModLoader.targets" />
@@ -17,18 +17,10 @@
   <PropertyGroup>
     <NoWarn>MSB3270</NoWarn>
   </PropertyGroup>
-  
+
   <!-- References -->
-	<ItemGroup>
-	  <Reference Include="Luminance">
-	    <HintPath>lib\Luminance.dll</HintPath>
-	  </Reference>
-	  <Reference Include="StructureHelper">
-	    <HintPath>lib\StructureHelper.dll</HintPath>
-	  </Reference>
-	  <Reference Include="SubworldLibrary">
-	    <HintPath>lib\SubworldLibrary.dll</HintPath>
-	  </Reference>
-	</ItemGroup>
+  <ItemGroup>
+    <Reference Include="lib\*.dll"></Reference>
+  </ItemGroup>
 
 </Project>
