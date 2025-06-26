@@ -8,8 +8,9 @@ hideResources = false
 includeSource = true
 includePDB = true
 
-modReferences = Luminance, SubworldLibrary
-dllReferences = StructureHelper
+modReferences = Luminance, SubworldLibrary, Daybreak
+weakReferences = MonoStereoMod
+dllReferences = StructureHelper, MonoStereo.Dependencies
 sortAfter = Luminance, SubworldLibrary
 
 buildIgnore = .vs\*, *.csproj, *.user, *.md, obj\*, bin\*, lib\*, Properties\*, *.config, .git\*, .github\*, .editorconfig, .gitignore, .gitattributes
