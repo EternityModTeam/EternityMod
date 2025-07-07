@@ -2,7 +2,10 @@
 
 public interface IBossDowned
 {
-    public bool AutomaticallyRegisterDeathGlobally { get; }
+    public bool AutomaticallyRegisterDeathGlobally
+    {
+        get;
+    }
 
     public void OnDefeat() { }
 }

@@ -20,7 +20,7 @@
 
   <!-- References -->
   <ItemGroup>
-    <Reference Include="lib\*.dll"></Reference>
+    <Reference Include="lib\*.dll" />
   </ItemGroup>
 
 </Project>
