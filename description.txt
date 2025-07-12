@@ -4,34 +4,20 @@ The mod goes for a chaotic genre, so there are many challenges for you to encoun
 
 Below is the scope for the demonstration beta release, which is entirely subject to change.
 This mod currently adds the following amount of content:
-- 3 bosses and 2 minibosses
-- 15+ enemies
+- 200+ items
+- 1 damage class
+- 3 bosses
 - 2 town NPCs
-- 1 biome
-- 1 event
-- 2 difficulty settings (work-in-progress)
-- 1 damage class and 1 subclass (work-in-progress)
-- 100+ items
-- 20+ weapons
-- 3 armor sets
-- 2 mounts
-- 20+ blocks and walls
-- 10+ pieces of furniture
-- 3 ores
-- Many recipes for vanilla items
+- 30+ total NPCs
+- 2 biomes
+- A few vanilla reworks and tweaks
 - Various mechanics and systems
 - Cross-compatibility for various mods
 
 Thanks to the following developers for helping out with this mod:
-Programmers: Vaema
-Artists and Spriters: Vaema, Lune
-Musicians: Vaema
-Sound Designers: Vaema
-Translators: Vaema
-Testers and Quality Maintainers: Vaema
+- Vaema (Owner, Main Programmer)
 
-Thanks to the other amazing people for the following reasons:
+Thanks to the other amazing people for their contributions for the mod:
 - Re-Logic for creating Terraria
 - The tModLoader Team for creating tModLoader
-- Lunaitok for a major ton of the sprites that have been merged
 - InsouciantGote for the mod's icon sprite

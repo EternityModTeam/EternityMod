@@ -1,37 +1,41 @@
+[h1]Eternity Mod[/h1]
+
+[hr]
+
+[h2]Information[/h2]
+
 The Eternity Mod is a content and overhaul mod for Terraria.
 It strives to add tons of new quality content, while also adding various vanilla tweaks and overhauls as well.
 The mod goes for a chaotic genre, so there are many challenges for you to encounter.
 
-Below is the scope for the demonstration beta release, which is entirely subject to change.
+[h2]Content[/h2]
+
 This mod currently adds the following amount of content:
-- 3 bosses and 2 minibosses
-- 15+ enemies
-- 2 town NPCs
-- 1 biome
-- 1 event
-- 2 difficulty settings (work-in-progress)
-- 1 damage class and 1 subclass (work-in-progress)
-- 100+ items
-- 20+ weapons
-- 3 armor sets
-- 2 mounts
-- 20+ blocks and walls
-- 10+ pieces of furniture
-- 3 ores
-- Many recipes for vanilla items
-- Various mechanics and systems
-- Cross-compatibility for various mods
+[olist]
+[*] 200+ items
+[*] 1 damage class
+[*] 3 bosses
+[*] 2 town NPCs
+[*] 30+ total NPCs
+[*] 2 biomes
+[*] A few vanilla reworks and tweaks
+[*] Various mechanics and systems
+[*] Cross-compatibility for various mods
+[/olist]
+
+[h2]Developers[/h2]
 
 Thanks to the following developers for helping out with this mod:
-Programmers: Vaema
-Artists and Spriters: Vaema, Lune
-Musicians: Vaema
-Sound Designers: Vaema
-Translators: Vaema
-Testers and Quality Maintainers: Vaema
+[list]
+[*] Vaema (Owner, Main Programmer)
+[/list]
 
-Thanks to the other amazing people for the following reasons:
-- Re-Logic for creating Terraria
-- The tModLoader Team for creating tModLoader
-- The Calamity Team for some code
-- InsouciantGote for the mod's icon sprite
+[h2]Special Thanks[/h2]
+
+Thanks to the other amazing people for their contributions for the mod:
+[list]
+[*] Re-Logic for creating Terraria
+[*] The tModLoader Team for creating tModLoader
+[*] Lunaitok for a major ton of the sprites that have been merged
+[*] InsouciantGote for the mod's icon sprite
+[/list]
