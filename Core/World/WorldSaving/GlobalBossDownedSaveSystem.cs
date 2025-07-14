@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using EternityMod.Core.Globals.NPCs;
+﻿using EternityMod.Core.Globals.NPCs;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;

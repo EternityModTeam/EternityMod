@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using EternityMod.Core.Networking.Packets;
+﻿using EternityMod.Core.Networking.Packets;
 using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ID;

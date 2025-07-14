@@ -1,9 +1,7 @@
-﻿global using static System.MathF;
-global using static Microsoft.Xna.Framework.MathHelper;
+﻿global using static Microsoft.Xna.Framework.MathHelper;
 global using static Luminance.Common.Utilities.Utilities;
 global using static EternityMod.Core.Utilities.EternityUtilities;
 
-using System.IO;
 using Terraria.ModLoader;
 using Luminance.Core.ModCalls;
 using EternityMod.Core.Networking;

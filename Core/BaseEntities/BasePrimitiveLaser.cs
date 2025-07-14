@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using Luminance.Assets;
+﻿using Luminance.Assets;
 using Luminance.Core.Graphics;
 using Microsoft.Xna.Framework;
 using Terraria;

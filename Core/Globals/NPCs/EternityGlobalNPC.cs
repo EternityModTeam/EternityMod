@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using EternityMod.Core.DataStructures;
+﻿using EternityMod.Core.DataStructures;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;

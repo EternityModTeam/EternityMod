@@ -1,5 +1,4 @@
-﻿using System;
-using ReLogic.Content;
+﻿using ReLogic.Content;
 using Terraria.ModLoader;
 
 namespace EternityMod.Assets;

@@ -1,5 +1,4 @@
-﻿using System;
-using Luminance.Common.Easings;
+﻿using Luminance.Common.Easings;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using ReLogic.Graphics;

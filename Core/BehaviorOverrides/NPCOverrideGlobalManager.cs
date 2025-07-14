@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using EternityMod.Core.CrossCompatibility.Inbound.Fargos;
-using EternityMod.Core.World.WorldSaving;
+﻿using EternityMod.Core.World.WorldSaving;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
