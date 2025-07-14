@@ -1,0 +1,8 @@
+﻿EternitySword: {
+    DisplayName: Eternity
+    Tooltip:
+            '''
+            Press <left> to release a barrage of cosmic bolts and stars that home in on enemies
+            Press <right> to fucking scream in anguish, you little bitch
+            '''
+}

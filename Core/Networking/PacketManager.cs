@@ -11,7 +11,6 @@ using Terraria.ModLoader.IO;
 
 namespace EternityMod.Core.Networking;
 
-// NOTE -- This system or more or less equivalent to the one I wrote for Infernum a while ago.
 public class PacketManager : ModSystem
 {
     internal static Dictionary<string, Packet> RegisteredPackets = [];

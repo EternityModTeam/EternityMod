@@ -7,14 +7,9 @@
   <PropertyGroup>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
-  <PropertyGroup>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
-  </PropertyGroup>
+    <ImplicitUsings>enable</ImplicitUsings>
 
-  <!-- Warning suppression -->
-  <PropertyGroup>
+    <!-- Warning suppression -->
     <NoWarn>MSB3270</NoWarn>
   </PropertyGroup>
 
